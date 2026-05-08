@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ted Phipps 👋
 
-<!--
-**tedkphipps-ops/tedkphipps-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A dedicated IT and Cybersecurity professional focused on network security, threat intelligence, and continuous technical growth.
 
-Here are some ideas to get you started:
+### 🛡️ Certifications
+* CompTIA Security+
+* CompTIA CySA+
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Focus
+* Cybersecurity:** DevSecOps, File Integrity Monitoring (FIM), and Reverse Proxies.
+* Networking:** Network security protocols and documentation.
+* Tools:** Currently building and documenting labs in my [Technical-Notes](https://github.com/tedkphipps-ops/Technical-Notes) repository.
+
+### 📫 Connect with Me
+* 📍 Based in Billings, MT
+* 🔭 I’m currently working on advanced networking labs and cybersecurity projects.
